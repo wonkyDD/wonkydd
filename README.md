@@ -3,8 +3,6 @@
 <div align="center">
   
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonkyDD&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=bekpshsc01)](https://solved.ac/bekpshsc01)
   
   ### 🍰 wonkyDD ✨ 
   
@@ -18,5 +16,6 @@
 </div>
 
 
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bekpshsc01)](https://solved.ac/bekpshsc01)
 <!-- <div style="color: yellow"> asdf </div>-->
