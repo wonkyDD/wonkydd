@@ -1,19 +1,15 @@
-### Hi there 👋
 
-<!--
-**wonkyDD/wonkydd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonkyDD&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+  
+  ### 🍰 wonkyDD ✨ 
+  
+  ---
+  <a href="https://velog.io/@wonkydd"><img src="https://img.shields.io/badge/wonkydd-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="https://solved.ac/bekpshsc01"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=bekpshsc01"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bekpshsc01)](https://solved.ac/백준아이디)
+  <br>
+ 
+</div>
