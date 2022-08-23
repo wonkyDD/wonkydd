@@ -16,5 +16,5 @@
 </div>
 
 
-<!--[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bekpshsc01)](https://solved.ac/bekpshsc01)-->
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bekpshsc01)](https://solved.ac/bekpshsc01)
 <!-- <div style="color: yellow"> asdf </div>-->
