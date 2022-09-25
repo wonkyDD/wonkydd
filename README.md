@@ -22,6 +22,10 @@
 <!-- <div style="color: yellow"> asdf </div>-->
 
 
+I love https://www.voyagerx.com/ ..! 
+Especially vrew and vFlat service
+
+
 < iOS >
 - Swift
 - Almofire
@@ -92,12 +96,31 @@
 
 Interested in ...
 
+
+
+
+< Backend >
+- Spring
+- SpringBoot
+- RabbitMQ
+- Celery
+- Kafka
+
+<br>
+
 < Deep Learning >
+- Framework
+  - OpenCV
+  - PyTorch
+  - Tensorflow
+  - ml-agents
 - OpenAI
   - DALL-E
   - GPT-3
 - Gopher
 - DeepFaceLive
+- DeepFaceLap
+- faceswap
 - mediapipe
 - Topics...
   - Deep Fake
@@ -132,14 +155,69 @@ Interested in ...
 
 
 < CNCF >
+- Kubernetes
 - Terraform
 - Envoy
 - Harbor
 - Argo CD & Workflow
 - Prometheus
 - Grafana
-- Kubernetes
 - Helm
 - gRPC
 - Jaeger
 - Thanos
+
+
+<br>
+
+
+< Service >
+- Vrew
+- vFlat
+- obs
+- AppFlowy
+- Godot
+- Blender
+- Hazel
+- Mindustry
+- box2d
+- bullet3
+- filament
+- openscad
+- Theatre
+- panda3d
+- Redash
+- Sentry
+- Superset
+- vscode
+- electron
+- mullvad-vpn-app
+- github desktop
+- redis
+- mysql-server
+- mongodb
+- leveldb
+- fuchsia
+- rt-thread
+- sqlite
+- aseprite
+- azul
+- terminal
+- zsh
+- ffmpeg
+- video.js
+- vlc
+- Wireshark
+- Tor
+- flutter
+- flutter/engine
+- nginx
+- duckduckgo
+- next-cloud
+- meganz
+- AdGuard
+- codesandbox-client
+
+
+
+<br>
