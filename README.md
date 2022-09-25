@@ -20,3 +20,126 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bekpshsc01)](https://solved.ac/bekpshsc01)
 <!-- <div style="color: yellow"> asdf </div>-->
+
+
+< iOS >
+- Swift
+- Almofire
+
+<br>
+
+
+< Frontend (web) >
+- TypeScript
+- React
+- Next.js
+- Three.js
+- Babylon.js
+- Cannon.js
+- WebAssembly(Rust)
+
+<br>
+
+
+< Desktop >
+- Electron
+
+<br>
+
+
+< Backend >
+- Django
+- gRPC
+
+<br>
+
+
+< Graphics >
+- Unity
+- UE4, UE5 (C++)
+
+<br>
+
+
+< AWS >
+- EC2
+- ECS
+- RDS
+- Code Deploy
+- SSM
+- Lambda
+- APIGateway
+- CloudWatch
+- S3
+- CloudFront
+- IAM
+
+<br>
+
+
+< Language >
+- Swift
+- Python
+- Typescript
+- Go
+- Rust
+- C++
+
+<br>
+
+
+---
+
+Interested in ...
+
+< Deep Learning >
+- OpenAI
+  - DALL-E
+  - GPT-3
+- Gopher
+- DeepFaceLive
+- mediapipe
+- Topics...
+  - Deep Fake
+  - TTS
+  - Classification
+  - 3D Graphics (Like Tesla)
+  - NLP
+  
+  
+  <br>
+
+< BlockChain >
+- ethereum
+- solana
+- diem
+- cardano
+- cosmos
+- filecoin
+- monero
+- substrate
+- eos
+- algorand
+- polkadot
+- ripple(xrp)
+- venus
+- sandbox
+- aave
+- uniswap
+- pancakeswap
+
+<br>
+
+
+< CNCF >
+- Terraform
+- Envoy
+- Harbor
+- Argo CD & Workflow
+- Prometheus
+- Grafana
+- Kubernetes
+- Helm
+- gRPC
+- Jaeger
+- Thanos
