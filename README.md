@@ -47,6 +47,8 @@ Especially vrew and vFlat service
 
 < Desktop >
 - Electron
+- WebGL
+- WebAudio
 
 <br>
 
