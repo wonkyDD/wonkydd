@@ -73,11 +73,16 @@ Interested in ...
 - PWA
   - Next.js
   - React
+- Physics
+  - box2d
+  - bullet3
 - Graphics
   - Engine
     - UE4, UE5
     - Unity
       - ML-Agents environment for RL/DL
+    - godot
+    - blender
   - GLSL
   - GPGPU
     - CUDA
