@@ -40,6 +40,14 @@ Youtube: https://www.youtube.com/channel/UCKpjQHbS_l3BUhh2OIra-nw
 Resume : https://wonkydd.notion.site/f2660d65027f40868bf07889538bec0f
 
 ---
+
+
+### Next Generation , The Gamechanger for a norm of club managing system :   
+https://github.com/LuxJudith
+
+<br>
+
+---
 <br>
 
 
