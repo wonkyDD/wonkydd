@@ -59,137 +59,101 @@ https://github.com/LuxJudith
 Interested in ...
 
 
-< Desktop >
-- Electron
-- WebGL
-- WebAudio
+- Language
+  - Go
+  - Rust
+  - C, C++
+  - C#
+  - Python
+  - Typescript
+  - Swift
+- Mobile
+  - iOS
+  - Flutter
+- PWA
+  - Next.js
+  - React
+- Graphics
+  - Engine
+    - UE4, UE5
+    - Unity
+      - ML-Agents environment for RL/DL
+  - GLSL
+  - GPGPU
+    - CUDA
+  - Three.js
+  - WebAssembly (WASM)
+- AWS
+  - Lambda
+  - CloudWatch
+  - APIGateway
+  - SNS, SES
+  - ECS
+  - EKS
+- DeepLearning
+  - Framework
+    - Tensorflow
+    - PyTorch
+  - OpenAI
+    - DALL-E
+    - GPT-3
+    - gym
+    - baseline
+  - Naver
+    - Clova
+  - DeepMind
+    - alphafold
+    - alphastar
+    - lab
+    - mujoco
+    - Gopher
+- CNCF
+  - k8s
+  - Harbor
+  - Terraform
+  - Envoy
+  - Helm
+  - Grafana
+  - Prometheus
+  - gRPC
+  - Thanos
+  - Jaeger
+  - Argo CD & Workflow
+- Data-driven
+  - Kafka
+  - Celery
+  - RabbitMQ
+  - Spark
+  - Hive
+  - Hadoop
+  - Impala
+  - Presto
+- BlockChain
+  - DApp
+    - ethereum
+    - solana
+    - diem
+    - polkadot
+  - Access Layer
+    - Coinbase
+    - Metamask
+    - Brave browser
+  - De-Fi
+    - Uniswap
+    - PancakeSwap
+    - SushiSwap
+    - Aave
+  - sdk
+    - cosmos
+  - cardano
+  - monero
+  - substrate
+  - eos
+  - algorand
+  - filecoin
+  - venus
+  - ripple
+  - sandbox
 
 <br>
 
-
-
-< iOS >
-- Swift
-- Almofire
-
-<br>
-
-
-< Frontend (web) >
-- TypeScript
-- React
-- Next.js
-- Three.js
-- Babylon.js
-- Cannon.js
-- WebAssembly(Rust)
-
-
-< Graphics >
-- OpenGL
-   - GLFW
-   - GLM
-- Unity
-  - ml-agents
-- UE4, UE5 (C++)
-
-<br>
-
-
-
-< AWS >
-- EC2
-- ECS
-- RDS
-- Code Deploy
-- SSM
-- Lambda
-- APIGateway
-- CloudWatch
-- S3
-- CloudFront
-- IAM
-
-<br>
-
-
-
-
-
-< Language >
-- Swift
-- Python
-- Typescript
-- Go
-- Rust
-- C++
-
-
-
-
-
-<br>
-
-< Deep Learning >
-- Framework
-  - OpenCV
-  - PyTorch
-  - Tensorflow
-  - ml-agents
-- OpenAI
-  - DALL-E
-  - GPT-3
-- Gopher
-- DeepFaceLive
-- DeepFaceLap
-- faceswap
-- mediapipe
-- Topics...
-  - Deep Fake
-  - TTS
-  - Classification
-  - 3D Graphics (Like Tesla)
-  - NLP
-  
-  
-  <br>
-
-< BlockChain >
-- ethereum
-- solana
-- diem
-- cardano
-- cosmos
-- filecoin
-- monero
-- substrate
-- eos
-- algorand
-- polkadot
-- ripple(xrp)
-- venus
-- sandbox
-- aave
-- uniswap
-- pancakeswap
-
-<br>
-
-
-< CNCF >
-- Kubernetes
-- Terraform
-- Envoy
-- Harbor
-- Argo CD & Workflow
-- Prometheus
-- Grafana
-- Helm
-- gRPC
-- Jaeger
-- Thanos
-
-
-
-
-<br>
