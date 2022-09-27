@@ -31,6 +31,9 @@ I love
 
 <br>
 
+
+// Leetcode:      
+// HackerRanks:    
 Kaggle: https://www.kaggle.com/wonkydd     
 Blog: https://velog.io/@wonkydd  
 Youtube: https://www.youtube.com/channel/UCKpjQHbS_l3BUhh2OIra-nw  
