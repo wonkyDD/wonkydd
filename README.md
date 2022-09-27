@@ -22,11 +22,17 @@
 <!-- <div style="color: yellow"> asdf </div>-->
 
 
-I love https://www.voyagerx.com/ ..!     
-Especially vrew and vFlat service
+I love 
+- **especially** VoyagerX ( https://www.voyagerx.com/ )  
+- Meta  
+- Nvidia  
+- Apple   
+- Tesla
 
 <br>
 
+Blog: https://velog.io/@wonkydd  
+Youtube: https://www.youtube.com/channel/UCKpjQHbS_l3BUhh2OIra-nw  
 Resume : https://wonkydd.notion.site/f2660d65027f40868bf07889538bec0f
 
 ---
