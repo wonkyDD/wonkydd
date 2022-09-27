@@ -22,11 +22,15 @@
 <!-- <div style="color: yellow"> asdf </div>-->
 
 
-I love https://www.voyagerx.com/ ..! 
+I love https://www.voyagerx.com/ ..!     
 Especially vrew and vFlat service
 
+<br>
 
 Resume : https://wonkydd.notion.site/f2660d65027f40868bf07889538bec0f
+
+---
+<br>
 
 
 < iOS >
