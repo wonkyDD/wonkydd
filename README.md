@@ -51,6 +51,23 @@ https://github.com/LuxJudith
 <br>
 
 
+
+
+<br>
+
+
+Interested in ...
+
+
+< Desktop >
+- Electron
+- WebGL
+- WebAudio
+
+<br>
+
+
+
 < iOS >
 - Swift
 - Almofire
@@ -67,23 +84,6 @@ https://github.com/LuxJudith
 - Cannon.js
 - WebAssembly(Rust)
 
-<br>
-
-
-< Desktop >
-- Electron
-- WebGL
-- WebAudio
-
-<br>
-
-
-< Backend >
-- Django
-- gRPC
-
-<br>
-
 
 < Graphics >
 - OpenGL
@@ -94,6 +94,7 @@ https://github.com/LuxJudith
 - UE4, UE5 (C++)
 
 <br>
+
 
 
 < AWS >
@@ -112,6 +113,9 @@ https://github.com/LuxJudith
 <br>
 
 
+
+
+
 < Language >
 - Swift
 - Python
@@ -120,22 +124,9 @@ https://github.com/LuxJudith
 - Rust
 - C++
 
-<br>
-
-
----
-
-Interested in ...
 
 
 
-
-< Backend >
-- Spring
-- SpringBoot
-- RabbitMQ
-- Celery
-- Kafka
 
 <br>
 
@@ -198,56 +189,6 @@ Interested in ...
 - Jaeger
 - Thanos
 
-
-<br>
-
-
-< Service >
-- Vrew
-- vFlat
-- obs
-- AppFlowy
-- Godot
-- Blender
-- Hazel
-- Mindustry
-- box2d
-- bullet3
-- filament
-- openscad
-- Theatre
-- panda3d
-- Redash
-- Sentry
-- Superset
-- vscode
-- electron
-- mullvad-vpn-app
-- github desktop
-- redis
-- mysql-server
-- mongodb
-- leveldb
-- fuchsia
-- rt-thread
-- sqlite
-- aseprite
-- azul
-- terminal
-- zsh
-- ffmpeg
-- video.js
-- vlc
-- Wireshark
-- Tor
-- flutter
-- flutter/engine
-- nginx
-- duckduckgo
-- next-cloud
-- meganz
-- AdGuard
-- codesandbox-client
 
 
 
