@@ -157,14 +157,16 @@ Interested in ...
     - PancakeSwap
     - SushiSwap
     - Aave
-  - sdk
+  - SDK
     - cosmos
-  - cardano
+  - Store
+    - Filecoin
+    - IPFS
   - monero
   - substrate
+  - cardano
   - eos
   - algorand
-  - filecoin
   - venus
   - ripple
   - sandbox
