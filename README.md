@@ -81,7 +81,10 @@ Interested in ...
   - Flutter
 - PWA
   - Next.js
-  - React
+  - react
+  - recoil
+  - emotion
+  - webpack, esbuild, swc
 - Physics
   - box2d
   - bullet3
