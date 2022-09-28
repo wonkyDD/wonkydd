@@ -45,6 +45,9 @@ Resume : https://wonkydd.notion.site/f2660d65027f40868bf07889538bec0f
 ### Next Generation , The Gamechanger for a norm of club managing system :   
 https://github.com/LuxJudith
 
+If you want to change College community services like everytime using blockchain and deeplearning,
+Contact me dev.csh.01@gmail.com
+
 <br>
 
 ---
