@@ -39,6 +39,12 @@ Blog: https://velog.io/@wonkydd
 Youtube: https://www.youtube.com/channel/UCKpjQHbS_l3BUhh2OIra-nw  
 Resume : https://wonkydd.notion.site/f2660d65027f40868bf07889538bec0f
 
+<br>
+
+> HomePage : https://portfolio-wonkydd.vercel.app/
+
+<br>
+
 ---
 
 
