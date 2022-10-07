@@ -33,7 +33,7 @@
 <br>
 
 
-## Essential
+## <code>Essential</code>
 📌 Blog: https://velog.io/@wonkydd      
 📌 Resume : https://wonkydd.notion.site/f2660d65027f40868bf07889538bec0f   
 
@@ -41,7 +41,7 @@
 <br>
 
 
-## More Info?
+## <code>More Info?</code>
 📌 Youtube: https://www.youtube.com/channel/UCKpjQHbS_l3BUhh2OIra-nw  
 📌 HomePage : https://portfolio-wonkydd.vercel.app/   
 
@@ -52,14 +52,23 @@
 Feel free to checkout 😄
 
 
+<br>
+<br>
 
+
+# 🚀 Project
+
+
+
+<br>
 <br>
 
 
 # 👀  Interested in ...
 
+<br>
 
-### 🌏 Language
+##  <code>Language</code>
   - Solidity
   - Go
   - Rust
@@ -127,8 +136,9 @@ Feel free to checkout 😄
     - Filecoin
     - IPFS
 
-<br>
 
+<br>
+<br>
 
 
 # 😍 Love
