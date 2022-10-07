@@ -1,12 +1,11 @@
-
-
 <div align="center">
   
 
   
-  ### 🍰 wonkyDD ✨ 
-  
-  ---
+# ✈️ Hello from wonkyDD dev logs ✈️
+
+
+
   <!-- <a href="https://www.hanyang.ac.kr/"><img src="https://img.shields.io/badge/Hanyang Univ-004c86?style=flat-square&logo=Twitter&logoColor=white"/></a> -->
   <a href="https://velog.io/@wonkydd"><img src="https://img.shields.io/badge/wonkydd-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
   <!-- <a href="https://solved.ac/bekpshsc01"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=bekpshsc01"/></a> -->
@@ -22,60 +21,43 @@
 <!-- <div style="color: yellow"> asdf </div>-->
 
 
-I love 
-- **especially** VoyagerX ( https://www.voyagerx.com/ )  
-- Meta  
-- Nvidia  
-- Apple   
-- Tesla
+
+
+<br>
+<br>
+
+
+# 📝 Who am I?
+
+📌 Blog: https://velog.io/@wonkydd  
+📌 Youtube: https://www.youtube.com/channel/UCKpjQHbS_l3BUhh2OIra-nw  
+📌 Resume : https://wonkydd.notion.site/f2660d65027f40868bf07889538bec0f   
+📌 HomePage : https://portfolio-wonkydd.vercel.app/   
 
 <br>
 
 
-// Leetcode:      
-// HackerRanks:    
-Kaggle: https://www.kaggle.com/wonkydd     
-Blog: https://velog.io/@wonkydd  
-Youtube: https://www.youtube.com/channel/UCKpjQHbS_l3BUhh2OIra-nw  
-Resume : https://wonkydd.notion.site/f2660d65027f40868bf07889538bec0f
-
-<br>
-
-> HomePage : https://portfolio-wonkydd.vercel.app/
-
-<br>
-
----
-
-
-### Next Generation , The Gamechanger for a norm of club managing system :   
-https://github.com/LuxJudith
-
-If you want to change College community services like everytime using blockchain and deeplearning,
-Contact me dev.csh.01@gmail.com
-
-<br>
-
----
-<br>
-
+> You can check more details especially from **Resume** !    
+Feel free to checkout 😄
 
 
 
 <br>
 
 
-Interested in ...
+# 👀  Interested in ...
 
 
 - Language
+  - Solidity
   - Go
   - Rust
   - C, C++
-  - C#
+  - WebAssembly
   - Python
   - Typescript
   - Swift
+  - Dart
 - Mobile
   - iOS
   - Flutter
@@ -85,19 +67,12 @@ Interested in ...
   - recoil
   - emotion
   - webpack, esbuild, swc
-- Physics
-  - box2d
-  - bullet3
 - Graphics
   - Engine
     - UE4, UE5
     - Unity
-      - ML-Agents environment for RL/DL
     - godot
     - blender
-  - GLSL
-  - GPGPU
-    - CUDA
   - Three.js
   - WebAssembly (WASM)
 - AWS
@@ -111,68 +86,41 @@ Interested in ...
   - Framework
     - Tensorflow
     - PyTorch
-  - OpenAI
-    - DALL-E
-    - GPT-3
-    - gym
-    - baseline
-  - Naver
-    - Clova
-  - DeepMind
-    - alphafold
-    - alphastar
-    - lab
-    - mujoco
-    - Gopher
+    - OpenCV
 - CNCF
   - k8s
-  - Harbor
-  - Terraform
-  - Envoy
-  - Helm
-  - Grafana
   - Prometheus
   - gRPC
-  - Thanos
   - Jaeger
-  - Argo CD & Workflow
-- Data-driven
-  - Kafka
-  - Celery
-  - RabbitMQ
-  - Spark
-  - Hive
-  - Hadoop
-  - Impala
-  - Presto
 - BlockChain
-  - DApp
-    - ethereum
-    - solana
-    - diem
-    - polkadot
-  - Access Layer
-    - Coinbase
-    - Metamask
-    - Brave browser
-  - De-Fi
-    - Uniswap
-    - PancakeSwap
-    - SushiSwap
-    - Aave
-  - SDK
-    - cosmos
+  - bitcoin
+  - ripple
+  - geth
+  - diem
+  - substrate
+  - polkadot
+  - cardano
+  - solana
+  - cosmos
+  - Algorand
+  - venus, lotus
+  - Aave
+  - Uniswap
+  - PancakeSwap
+  - Filecoin
+  - IPFS
   - Store
     - Filecoin
     - IPFS
-  - monero
-  - substrate
-  - cardano
-  - eos
-  - algorand
-  - venus
-  - ripple
-  - sandbox
 
 <br>
+
+
+
+# 😍 Love
+- **especially** VoyagerX ( https://www.voyagerx.com/ )  
+- Meta  
+- Nvidia  
+- Apple   
+- Tesla
 
