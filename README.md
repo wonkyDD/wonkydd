@@ -29,15 +29,26 @@
 
 # 📝 Who am I?
 
-📌 Blog: https://velog.io/@wonkydd  
-📌 Youtube: https://www.youtube.com/channel/UCKpjQHbS_l3BUhh2OIra-nw  
+
+<br>
+
+
+## Essential
+📌 Blog: https://velog.io/@wonkydd      
 📌 Resume : https://wonkydd.notion.site/f2660d65027f40868bf07889538bec0f   
+
+
+<br>
+
+
+## More Info?
+📌 Youtube: https://www.youtube.com/channel/UCKpjQHbS_l3BUhh2OIra-nw  
 📌 HomePage : https://portfolio-wonkydd.vercel.app/   
 
 <br>
 
 
-> You can check more details especially from **Resume** !    
+> You can check more details especially from **Resume** and **Blog** ..!!    
 Feel free to checkout 😄
 
 
@@ -48,7 +59,7 @@ Feel free to checkout 😄
 # 👀  Interested in ...
 
 
-- Language
+### 🌏 Language
   - Solidity
   - Go
   - Rust
@@ -58,10 +69,13 @@ Feel free to checkout 😄
   - Typescript
   - Swift
   - Dart
+  
+- Backend
+  
 - Mobile
   - iOS
   - Flutter
-- PWA
+- Frontend
   - Next.js
   - react
   - recoil
