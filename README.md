@@ -58,6 +58,22 @@ Feel free to checkout 😄
 
 # 🚀 Project
 
+<br>
+
+- kpop-community
+- defi-trader
+- web3-government
+- web3-shareholders
+- next-dcinside
+- next-velog
+- club-manager
+
+<br>
+
+- cook-alone
+- only-teenager
+- movie-analyzer
+- education-equity
 
 
 <br>
