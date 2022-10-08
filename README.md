@@ -38,7 +38,7 @@
 <br>
 
 
-## <code>Essential</code>
+### <code>Essential</code>
 
 
 📌 Blog: https://velog.io/@wonkydd      
@@ -48,7 +48,7 @@
 <br>
 
 
-## <code>More Info?</code>
+### <code>More Info?</code>
 📌 Youtube: https://www.youtube.com/channel/UCKpjQHbS_l3BUhh2OIra-nw  
 📌 HomePage : https://portfolio-wonkydd.vercel.app/   
 
@@ -60,12 +60,12 @@ Feel free to checkout 😄
 
 <br>
 
-### Baekjoon Online Judge
+#### Baekjoon Online Judge
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bekpshsc01)](https://solved.ac/bekpshsc01)
 <!-- <div style="color: yellow"> asdf </div>-->
 
 
-### Github Activity
+#### Github Activity
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonkyDD&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
   
@@ -108,7 +108,7 @@ Feel free to checkout 😄
 
 <br>
 
-##  <code>Language</code>
+###  <code>Language</code>
   - Solidity
   - Go
   - Rust
