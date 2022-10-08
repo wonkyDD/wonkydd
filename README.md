@@ -62,11 +62,12 @@ Feel free to checkout 😄
 
 - kpop-community
 - defi-trader
+- club-manager
 - web3-government
 - web3-shareholders
 - next-dcinside
 - next-velog
-- club-manager
+- next-youtube(more than just a video platform)
 
 <br>
 
