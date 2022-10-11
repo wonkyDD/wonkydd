@@ -99,7 +99,7 @@ Feel free to checkout 😄
   - Next.js
   - React
   - emotion, framer
-  - berry
+  - yarn-berry
   - swc, esbuild, webpack, babel
 - Desktop
   - Electron
