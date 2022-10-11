@@ -101,6 +101,8 @@ Feel free to checkout 😄
   - emotion, framer
   - berry
   - swc, esbuild, webpack
+- Desktop
+  - Electron
 - Backend
   - Nest.js
   - Spring Framework
