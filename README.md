@@ -98,9 +98,11 @@ Feel free to checkout 😄
 - Frontend
   - Next.js
   - React
-  - emotion, framer
+  - redux, jotai, recoil, react-query, zustand, mobx
+  - jest, testing-library
   - yarn-berry
   - swc, esbuild, webpack, babel
+  - emotion, framer
 - Desktop
   - Electron
 - Backend
