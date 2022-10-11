@@ -100,7 +100,7 @@ Feel free to checkout 😄
   - React
   - emotion, framer
   - berry
-  - swc, esbuild, webpack
+  - swc, esbuild, webpack, babel
 - Desktop
   - Electron
 - Backend
