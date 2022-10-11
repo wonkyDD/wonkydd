@@ -92,74 +92,54 @@ Feel free to checkout 😄
 # 👀  Things I Like
 
 <br>
+  
 
-###  <code>Language</code>
-  - Solidity
-  - Go
-  - Rust
-  - C, C++
-  - WebAssembly
-  - Python
-  - Typescript
-  - Swift
-  - Dart
-  
-- Backend
-  
-- Mobile
-  - iOS
-  - Flutter
+###  <code>Web</code>
 - Frontend
   - Next.js
-  - react
-  - recoil
-  - emotion
-  - webpack, esbuild, swc
-- Graphics
-  - Engine
-    - UE4, UE5
-    - Unity
-    - godot
-    - blender
+  - React
+  - emotion, framer
+  - berry
+  - swc, esbuild, webpack
+- Backend
+  - Nest.js
+  - Spring Framework
+    - Spring
+    - Spring Boot
+    - Spring-Cloud
+
+###  <code>Mobile</code>
+  - iOS
+  - Flutter
+
+###  <code>Graphics</code>
   - Three.js
   - WebAssembly (WASM)
-- AWS
+  
+###  <code>AWS</code>
   - Lambda
   - CloudWatch
   - APIGateway
   - SNS, SES
-  - ECS
-  - EKS
-- DeepLearning
-  - Framework
-    - Tensorflow
-    - PyTorch
-    - OpenCV
-- CNCF
-  - k8s
-  - Prometheus
-  - gRPC
-  - Jaeger
-- BlockChain
-  - bitcoin
-  - ripple
-  - geth
-  - diem
-  - substrate
-  - polkadot
+  
+###  <code>Deep Learning</code>
+  - Tensorflow
+  - PyTorch
+  - OpenCV
+
+###  <code>Blockchain</code>
+  - Ethereum
+    - solidity
+    - go-ethereum
+    - remix
+    - web3.js
+  - chainlink
+  - klatyn
   - cardano
   - solana
-  - cosmos
-  - Algorand
-  - venus, lotus
-  - Aave
-  - Uniswap
-  - PancakeSwap
-  - Filecoin
-  - IPFS
-  - Store
-    - Filecoin
-    - IPFS
+  - bitcoin
+  - filecoin
+  - IPFS, kubo
 
 
 <br>
