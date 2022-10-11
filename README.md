@@ -82,22 +82,7 @@ Feel free to checkout 😄
 
 <br>
 
-- kpop-community
-- defi-trader
-- club-manager
-- web3-government
-- web3-shareholders
-- next-dcinside
-- next-velog
-- next-youtube(more than just a video platform)
 
-<br>
-
-- cook-alone
-- only-teenager
-- movie-analyzer
-- education-equity
-- unique-pt-maker
 
 
 <br>
