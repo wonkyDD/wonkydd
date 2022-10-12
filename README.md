@@ -135,8 +135,11 @@ Feel free to checkout 😄
   - Ethereum
     - solidity
     - go-ethereum
-    - remix
+    - remix(-plugins)
     - web3.js
+    - ethers.js
+    - hardhat
+    - ganache
   - chainlink
   - klatyn
   - cardano
