@@ -79,15 +79,4 @@
 
 
 
-<br>
-<br>
-
-
-
-# 😍 Love
-- **especially** VoyagerX ( https://www.voyagerx.com/ )  
-- Meta  
-- Nvidia  
-- Apple   
-- Tesla
 
