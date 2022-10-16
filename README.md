@@ -54,12 +54,12 @@
 
 <br>
 
-#### Leetcode
+#### <code>Leetcode</code>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bekpshsc01)](https://solved.ac/bekpshsc01)
 <!-- <div style="color: yellow"> asdf </div>-->
 
 
-#### Github Activity
+#### <code>Github Activity</code>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonkyDD&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
   
