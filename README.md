@@ -41,8 +41,8 @@
 ### <code>Essential</code>
 
 
-📌 Blog: https://velog.io/@wonkydd      
-📌 Resume : https://wonkydd.notion.site/f2660d65027f40868bf07889538bec0f   
+📌 Blog: https://wonkydd.github.io/     
+📌 Resume: https://wonkydd.github.io/about    
 
 
 <br>
