@@ -50,13 +50,7 @@
 
 ### <code>More Info?</code>
 📌 Youtube: https://www.youtube.com/channel/UCKpjQHbS_l3BUhh2OIra-nw  
-📌 HomePage : https://portfolio-wonkydd.vercel.app/   
 
-<br>
-
-
-> You can check more details especially from **Resume** and **Blog** ..!!    
-Feel free to checkout 😄
 
 <br>
 
