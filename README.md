@@ -41,20 +41,24 @@
 ### <code>Essential</code>
 
 
-📌 Blog: https://wonkydd.github.io/     
-📌 Resume: https://wonkydd.github.io/about    
+📌 **Resume**: https://portfolio-wonkydd.vercel.app/about    
+📌 **Blog**: https://portfolio-wonkydd.vercel.app/blog     
 
 
 <br>
 
 
 ### <code>More Info?</code>
-📌 Youtube: https://www.youtube.com/channel/UCKpjQHbS_l3BUhh2OIra-nw  
+📌 **Youtube**: https://www.youtube.com/channel/UCKpjQHbS_l3BUhh2OIra-nw  
 
 
 <br>
 
 #### <code>Leetcode</code>
+
+<br>
+
+#### <code>Baekjoon Online Judge</code>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bekpshsc01)](https://solved.ac/bekpshsc01)
 <!-- <div style="color: yellow"> asdf </div>-->
 
