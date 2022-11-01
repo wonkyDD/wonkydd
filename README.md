@@ -54,21 +54,25 @@
 
 <br>
 
-#### <code>Leetcode</code>
+<!-- #### <code>Leetcode</code> -->
+#### 📌 **Leetcode**
 
 <br>
 
 
-#### <code>Codeforces</code>
+<!-- #### <code>Codeforces</code> -->
+#### 📌 **Codeforces**
 
 <br>
 
-#### <code>Baekjoon Online Judge</code>
+<!-- #### <code>Baekjoon Online Judge</code> -->
+#### 📌 **Baekjoon Online Judge**
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bekpshsc01)](https://solved.ac/bekpshsc01)
 <!-- <div style="color: yellow"> asdf </div>-->
 
 
-#### <code>Github Activity</code>
+<!-- #### <code>Github Activity</code> -->
+#### 📌 **Github Activity**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonkyDD&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
   
