@@ -41,38 +41,39 @@
 ### <code>Essential</code>
 
 
-📌 **Resume**: https://portfolio-wonkydd.vercel.app/about    
-📌 **Blog**: https://portfolio-wonkydd.vercel.app/blog     
+📌 &nbsp; **Resume**: https://portfolio-wonkydd.vercel.app/about    
+📌 &nbsp; **Blog**: https://portfolio-wonkydd.vercel.app/blog     
 
 
 <br>
 
 
 ### <code>More Info?</code>
-📌 **Youtube**: https://www.youtube.com/channel/UCKpjQHbS_l3BUhh2OIra-nw  
+📌 &nbsp; **Youtube**<br>
+- https://www.youtube.com/channel/UCKpjQHbS_l3BUhh2OIra-nw  
 
 
 <br>
 
 <!-- #### <code>Leetcode</code> -->
-#### 📌 **Leetcode**
+#### 📌 &nbsp; **Leetcode**
 
 <br>
 
 
 <!-- #### <code>Codeforces</code> -->
-#### 📌 **Codeforces**
+#### 📌 &nbsp; **Codeforces**
 
 <br>
 
 <!-- #### <code>Baekjoon Online Judge</code> -->
-#### 📌 **Baekjoon Online Judge**
+#### 📌 &nbsp; **Baekjoon Online Judge**
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bekpshsc01)](https://solved.ac/bekpshsc01)
 <!-- <div style="color: yellow"> asdf </div>-->
 
 
 <!-- #### <code>Github Activity</code> -->
-#### 📌 **Github Activity**
+#### 📌 &nbsp; **Github Activity**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonkyDD&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
   
