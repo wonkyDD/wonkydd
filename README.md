@@ -1,6 +1,6 @@
 <div align="center" style="font-family:courier;">
  
-###  ✈️ Welcome to wonkyDD Dev Logs ✈️
+###  ✈️ Hello I'm WonkyDD ✈️
 
   <br>
 
@@ -13,9 +13,9 @@
   2. 배지들은 오른쪽에 배치
   -->
 
-  <div> 
-    <a href="https://velog.io/@wonkydd"><img src="https://img.shields.io/badge/wonkydd-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
-  </div>
+<!--   <div>  -->
+<!--     <a href="https://velog.io/@wonkydd"><img src="https://img.shields.io/badge/wonkydd-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a> -->
+<!--   </div> -->
 
 
 
