@@ -67,11 +67,11 @@
 <!-- <br> -->
 
 <!-- #### <code>Baekjoon Online Judge</code> -->
-#### 📌 &nbsp; **Baekjoon Online Judge**
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bekpshsc01)](https://solved.ac/bekpshsc01)
+<!-- #### 📌 &nbsp; **Baekjoon Online Judge** -->
+<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bekpshsc01)](https://solved.ac/bekpshsc01) -->
 <!-- <div style="color: yellow"> asdf </div>-->
 
-<br>
+<!-- <br> -->
 
 <!-- #### <code>Github Activity</code> -->
 #### 📌 &nbsp; **Github Activity**
