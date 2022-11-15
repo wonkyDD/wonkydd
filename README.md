@@ -1,9 +1,6 @@
 <div align="center" style="font-family:courier;">
  
-###  ✈️ Hello I'm WonkyDD ✈️
-
-  <br>
-
+ ###  🤗 &nbsp; Hello I'm <code>WonkyDD</code> &nbsp; 🤗
   <!-- ✅ 추가할것..!
   1. 한양대 홈페이지 배지
   2. notion resume 배지
@@ -16,19 +13,8 @@
 <!--   <div>  -->
 <!--     <a href="https://velog.io/@wonkydd"><img src="https://img.shields.io/badge/wonkydd-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a> -->
 <!--   </div> -->
-
-
-
 </div>
-
-  
 <!-- <a href="https://solved.ac/bekpshsc01"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=bekpshsc01"/></a> -->
-
-
-
-  
-
-<br>
 <br>
 
 
