@@ -38,8 +38,6 @@
 📌 &nbsp; [**Youtube**](https://www.youtube.com/channel/UCKpjQHbS_l3BUhh2OIra-nw)
 
 
-<br>
-
 <!-- #### <code>Leetcode</code> -->
 <!-- #### 📌 &nbsp; **Leetcode** -->
 
@@ -68,7 +66,6 @@
 -->
 
 
-<br>
 <br>
 
 
