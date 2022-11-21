@@ -27,16 +27,15 @@
 ### <code>Essential</code>
 
 
-📌 &nbsp; **Resume**: https://portfolio-wonkydd.vercel.app/about    
-📌 &nbsp; **Blog**: https://portfolio-wonkydd.vercel.app/blog     
+📌 &nbsp; [**Resume**](https://portfolio-wonkydd.vercel.app/about)    
+📌 &nbsp; [**Blog**](https://portfolio-wonkydd.vercel.app/blog) 
 
 
 <br>
 
 
 ### <code>More Info?</code>
-📌 &nbsp; **Youtube**<br>
-- https://www.youtube.com/channel/UCKpjQHbS_l3BUhh2OIra-nw  
+📌 &nbsp; [**Youtube**](https://www.youtube.com/channel/UCKpjQHbS_l3BUhh2OIra-nw)
 
 
 <br>
