@@ -60,8 +60,8 @@
 <!-- <br> -->
 
 <!-- #### <code>Github Activity</code> -->
-#### 📌 &nbsp; **Github Activity**
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonkyDD&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+<!-- #### 📌 &nbsp; **Github Activity** -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonkyDD&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/> -->
   
   
 <!-- ✅ 추가할것..!
