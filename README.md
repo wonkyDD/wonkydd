@@ -2,7 +2,6 @@
  
  ###  🤗 &nbsp; Hello I'm <code>WonkyDD</code> &nbsp; 🤗
   <!-- ✅ 추가할것..!
-  1. 한양대 홈페이지 배지
   2. notion resume 배지
   3. vercel hompage 배지
 
@@ -14,9 +13,8 @@
 <!--     <a href="https://velog.io/@wonkydd"><img src="https://img.shields.io/badge/wonkydd-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a> -->
 <!--   </div> -->
 </div>
-<!-- <a href="https://solved.ac/bekpshsc01"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=bekpshsc01"/></a> -->
-<br>
 
+<br>
 
 # 📝 Who am I?
 
@@ -59,11 +57,6 @@
 <!-- #### <code>Github Activity</code> -->
 <!-- #### 📌 &nbsp; **Github Activity** -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonkyDD&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/> -->
-  
-  
-<!-- ✅ 추가할것..!
-1. https://github.com/callensm 참고할것
--->
 
 
 <br>
@@ -75,6 +68,7 @@
 
 - &nbsp;&nbsp; <code>[**OpenGL**](https://github.com/wonkyDD/OpenGL.git)</code>
 - &nbsp;&nbsp; <code>[**awesome-bevy**](https://github.com/wonkyDD/awesome-bevy)</code>
+- &nbsp;&nbsp; <code>[**portfolio**](https://github.com/wonkyDD/portfolio)</code>
 <!-- - [**OpenGL**](https://github.com/wonkyDD/OpenGL.git) -->
 <!-- - **vulkan** (https://github.com/wonkyDD/vulkan) -->
 <!-- - **gui** (https://github.com/wonkyDD/gui) -->
