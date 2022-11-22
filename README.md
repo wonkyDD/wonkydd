@@ -74,6 +74,7 @@
 <br>
 
 - &nbsp;&nbsp; <code>[**OpenGL**](https://github.com/wonkyDD/OpenGL.git)</code>
+- &nbsp;&nbsp; <code>[**awesome-bevy**](https://github.com/wonkyDD/awesome-bevy)</code>
 <!-- - [**OpenGL**](https://github.com/wonkyDD/OpenGL.git) -->
 <!-- - **vulkan** (https://github.com/wonkyDD/vulkan) -->
 <!-- - **gui** (https://github.com/wonkyDD/gui) -->
