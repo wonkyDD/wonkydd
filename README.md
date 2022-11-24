@@ -67,9 +67,9 @@
 <br>
 
 <!-- - &nbsp;&nbsp; <code>[**OpenGL**](https://github.com/wonkyDD/OpenGL.git)</code> -->
-- &nbsp;&nbsp; <code>[**awesome-bevy**](https://github.com/wonkyDD/awesome-bevy)</code>
+<!-- - &nbsp;&nbsp; <code>[**awesome-bevy**](https://github.com/wonkyDD/awesome-bevy)</code> -->
 <!-- - &nbsp;&nbsp; <code>[**portfolio**](https://github.com/wonkyDD/portfolio)</code> -->
-- &nbsp;&nbsp; <code>[**gui**](https://github.com/wonkyDD/gui)</code>
+<!-- - &nbsp;&nbsp; <code>[**gui**](https://github.com/wonkyDD/gui)</code> -->
 <!-- - &nbsp;&nbsp; <code>[**leetcode**](https://github.com/wonkyDD/leetcode)</code> -->
 <!-- - **vulkan** (https://github.com/wonkyDD/vulkan) -->
 <!-- - **gui** (https://github.com/wonkyDD/gui) -->
