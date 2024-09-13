@@ -1,3 +1,3 @@
 > [hyun.page](https://hyun.page/)
 
-> [zighang](https://zighang.com)
+> [zighang.com](https://zighang.com)
